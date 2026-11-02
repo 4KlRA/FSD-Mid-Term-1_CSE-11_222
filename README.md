@@ -136,7 +136,3 @@ npm start
 }
 
 ```
-
-<FollowUp>
-Would you like to add sample Postman test commands or a `.gitignore` template to complete the submission folder?
-</FollowUp>
