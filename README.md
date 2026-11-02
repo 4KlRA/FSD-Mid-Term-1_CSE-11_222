@@ -1,6 +1,5 @@
 Here is a comprehensive `README.md` file designed for your project repository and practical submission:
 
-```markdown
 # Library Management System REST API
 
 A lightweight RESTful API built with **Node.js** and **Express.js** to manage library books and handle inventory, search, and checkout operations.
@@ -33,8 +32,6 @@ Each book entry adheres to the following structure:
 }
 
 ```
-
----
 
 ## Installation & Setup
 
